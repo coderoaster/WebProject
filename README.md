@@ -1,7 +1,7 @@
 # WebProject
 ## 망고플레이트 사이트를 클론 한 프로젝트입니다.
 ## MVC 패턴으로 만들어 본후 Spring Mybatis 로 바꾸어서 진행하였습니다.
-### 개발환경
+
 ![개발환경](https://user-images.githubusercontent.com/66759107/93504818-fc149d80-f954-11ea-93eb-e3effcffa9f1.png)
 ### 파이썬 크롤링
 ![파이썬 크롤링](https://user-images.githubusercontent.com/66759107/93504830-ff0f8e00-f954-11ea-864c-6978ab7b8d5b.png)
